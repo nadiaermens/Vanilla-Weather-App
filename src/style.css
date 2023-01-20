@@ -11,9 +11,24 @@ body {
 }
 
 h1 {
-  color: lightslategrey !important;
+  color: lightslategrey;
   font-size: 24px;
   font-weight: 100;
   line-height: 28px;
-  text-decoration: dotted;
+  margin-bottom: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  color: lightslategrey;
+  font-size: 16px;
+  font-weight: 100;
+  line-height: 19px;
 }
